@@ -1,5 +1,7 @@
-var message = "Hello Coding";
-let msg1 = "Hallo";
-const msg2= "coding"
+var namadpn = "Moh Rizki Fauzy";
+let namaakhir = "Arif";
 
-console.log(msg1);
+const old= "24 Tahun";
+
+
+console.log(namadpn,namaakhir,old);
